@@ -18,7 +18,7 @@
     },
     "eofline": true,
     "import-blacklist": [
-      true,
+      false,
       "rxjs/Rx"
     ],
     "import-spacing": true,
